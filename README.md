@@ -1,4 +1,4 @@
-# ☕ Café Aroma — Dashboard inteligente de ventas
+# Café Aroma — Dashboard inteligente de ventas
 
 Aplicación web que registra las ventas de una cafetería desde la consola, las procesa en un servidor Node.js/Express y las muestra en un dashboard interactivo con Chart.js. Incluye un módulo de análisis con inteligencia artificial para apoyar la toma de decisiones.
 
