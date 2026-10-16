@@ -15,6 +15,9 @@ const desviacion = (arr) => {
 };
 const diaSemana = (fecha) => new Date(fecha + 'T12:00:00').getDay();
 const formatoCOP = (n) => '$' + Math.round(n).toLocaleString('es-CO');
+const hoyBogota = () => new Date().toLocaleDateString('en-CA', { timeZone: 'America/Bogota' });
+// El día de hoy aún no termina: se excluye de la predicción y de las anomalías para no sesgarlas
+const diasCompletos = (ventas) => serieDiaria(ventas).filter((d) => d.fecha !== hoyBogota());
 
 function agruparPor(ventas, clave) {
   const mapa = {};
@@ -95,7 +98,7 @@ function regresionLineal(valores) {
 }
 
 function predecir(ventas, diasFuturos = 7) {
-  const diario = serieDiaria(ventas);
+  const diario = diasCompletos(ventas);
   if (diario.length < 3) return { pendiente: 0, r2: 0, predicciones: [] };
 
   const valores = diario.map((d) => d.total);
@@ -133,7 +136,7 @@ function predecir(ventas, diasFuturos = 7) {
 
 // ---------- 4. IA: Detección de anomalías (puntaje Z) ----------
 function detectarAnomalias(ventas, umbral = 2) {
-  const diario = serieDiaria(ventas);
+  const diario = diasCompletos(ventas);
   const valores = diario.map((d) => d.total);
   const m = promedio(valores);
   const s = desviacion(valores);

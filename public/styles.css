@@ -67,7 +67,7 @@ main { padding: 24px clamp(16px, 4vw, 40px) 8px; max-width: 1400px; margin: 0 au
   border: 1px solid var(--leche); padding: 20px; min-width: 0;
 }
 .card.ancha { grid-column: 1 / -1; }
-.card header { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 14px; }
+.card header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 14px; }
 .card h2 { font-size: 1rem; font-weight: 700; }
 .chip { font-size: .75rem; padding: 4px 10px; border-radius: 99px; background: var(--leche); color: var(--cafe); white-space: nowrap; }
 .lienzo { position: relative; height: 280px; }
@@ -101,3 +101,39 @@ code { background: var(--leche); padding: 2px 6px; border-radius: 6px; font-size
   .grid { grid-template-columns: 1fr; }
   .lienzo, .lienzo.alto { height: 260px; }
 }
+
+/* ---------- Consola integrada ---------- */
+.consola-card {
+  background: #1d140e; border-radius: var(--radio); box-shadow: var(--sombra);
+  margin-bottom: 20px; overflow: hidden; border: 1px solid #3a2a1f;
+}
+.consola-card header {
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+  padding: 12px 18px; background: #2b1d14; border-bottom: 1px solid #3a2a1f;
+}
+.consola-card h2 { font-size: .95rem; color: var(--crema); font-weight: 700; }
+.consola-card .pista { margin-left: auto; font-size: .8rem; color: #b9a48f; }
+.consola-card .pista b { color: #f0c27b; font-family: ui-monospace, Consolas, monospace; }
+.luces { display: flex; gap: 6px; }
+.luces span { width: 11px; height: 11px; border-radius: 50%; background: #c8813a; }
+.luces span:nth-child(2) { background: #e6b450; }
+.luces span:nth-child(3) { background: #7fd19b; }
+.terminal {
+  font-family: ui-monospace, 'Cascadia Code', Consolas, 'Courier New', monospace;
+  font-size: .9rem; color: #e9dccb; padding: 14px 18px; cursor: text;
+}
+.salida { max-height: 260px; overflow-y: auto; white-space: pre-wrap; word-break: break-word; }
+.salida .linea { margin: 1px 0; line-height: 1.5; }
+.salida .cmd { color: #f0c27b; }
+.salida .ok { color: #8fdca7; }
+.salida .error { color: #f08a7e; }
+.salida .info { color: #9cc3e0; }
+.salida .tenue { color: #8a7766; }
+.entrada { display: flex; align-items: center; gap: 8px; margin-top: 6px; }
+.prompt { color: #7fd19b; white-space: nowrap; }
+.entrada input {
+  flex: 1; min-width: 0; background: transparent; border: 0; outline: none;
+  color: #fffdf9; font: inherit; font-size: 16px; caret-color: #f0c27b;
+}
+.entrada input::placeholder { color: #5e4c3e; }
+@media (max-width: 860px) { .consola-card .pista { margin-left: 0; width: 100%; } }

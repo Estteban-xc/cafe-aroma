@@ -33,6 +33,21 @@
       <article class="kpi destacado"><span>Producto estrella</span><strong id="k-top">—</strong></article>
     </section>
 
+    <section class="consola-card" aria-label="Consola de registro">
+      <header>
+        <div class="luces"><span></span><span></span><span></span></div>
+        <h2>Consola de registro de ventas</h2>
+        <span class="pista">Escribe <b>ayuda</b> y presiona Enter</span>
+      </header>
+      <div class="terminal" id="terminal">
+        <div class="salida" id="salida" role="log" aria-live="polite"></div>
+        <form class="entrada" id="form-consola" autocomplete="off">
+          <label for="comando" class="prompt">cafe-aroma&nbsp;$</label>
+          <input id="comando" type="text" spellcheck="false" placeholder="registrar capuccino 2" aria-label="Comando">
+        </form>
+      </div>
+    </section>
+
     <section class="grid">
       <article class="card ancha">
         <header>
@@ -79,9 +94,10 @@
   </main>
 
   <footer>
-    Registra ventas desde la terminal con <code>npm run registrar</code> o desde la consola del navegador con <code>registrarVenta("Capuccino", 2)</code>.
+    Registra ventas desde la consola de esta página, desde la consola del navegador (F12) con <code>registrarVenta("Capuccino", 2)</code> o desde la terminal con <code>npm run registrar</code>.
   </footer>
 
   <script src="app.js"></script>
+  <script src="consola.js"></script>
 </body>
 </html>

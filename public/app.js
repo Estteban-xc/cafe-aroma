@@ -83,12 +83,16 @@ function pintarGraficas(a) {
   // Línea: real + predicción + anomalías
   const reales = a.serieDiaria;
   const pred = a.prediccion.predicciones;
-  const labels = [...reales.map((d) => corto(d.fecha)), ...pred.map((d) => corto(d.fecha))];
+  // Eje X: fechas reales + fechas predichas (sin repetir el día de hoy, que puede tener ambas)
+  const fechas = [...new Set([...reales.map((d) => d.fecha), ...pred.map((d) => d.fecha)])].sort();
+  const real = Object.fromEntries(reales.map((d) => [d.fecha, d.total]));
+  const predicho = Object.fromEntries(pred.map((d) => [d.fecha, d.total]));
+  // La predicción arranca en el último día completo para que la línea sea continua
+  const inicioPred = fechas[fechas.indexOf(pred[0]?.fecha) - 1];
   const g = graficas.diaria;
-  g.data.labels = labels;
-  g.data.datasets[0].data = [...reales.map((d) => d.total), ...pred.map(() => null)];
-  // la predicción arranca en el último punto real para que la línea sea continua
-  g.data.datasets[1].data = [...reales.map((_, i) => (i === reales.length - 1 ? reales[i].total : null)), ...pred.map((d) => d.total)];
+  g.data.labels = fechas.map(corto);
+  g.data.datasets[0].data = fechas.map((f) => real[f] ?? null);
+  g.data.datasets[1].data = fechas.map((f) => predicho[f] ?? (f === inicioPred ? real[f] : null));
   g.data.datasets[2].data = a.anomalias.map((an) => ({ x: corto(an.fecha), y: an.total }));
   g.update();
   document.getElementById('r2').textContent = `Regresión lineal + estacionalidad · R² = ${a.prediccion.r2.toFixed(2)}`;
@@ -170,6 +174,7 @@ window.verAnalisis = async () => { const a = await fetch('/api/analisis').then((
 console.log('%c☕ Café Aroma', 'font-size:18px;font-weight:bold;color:#6f4e37');
 console.log('Comandos disponibles:\n  verProductos()\n  registrarVenta("Capuccino", 2)\n  registrarVenta("Tinto", 3, "2026-10-16")\n  verAnalisis()');
 
+window.actualizarDashboard = actualizar;
 crearGraficas();
 actualizar();
 setInterval(actualizar, INTERVALO_MS);
