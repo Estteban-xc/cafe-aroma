@@ -1,0 +1,22 @@
+{
+  "name": "cafe-aroma-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard inteligente de ventas para una cafetería (Node.js, Express, Chart.js)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "registrar": "node cli/registrar.js",
+    "seed": "node scripts/generar-datos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0"
+  },
+  "engines": {
+    "node": ">=20.19"
+  }
+}

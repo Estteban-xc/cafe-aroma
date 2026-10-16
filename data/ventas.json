@@ -1,0 +1,6248 @@
+[
+  {
+    "id": 1,
+    "fecha": "2026-09-16",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 2,
+    "fecha": "2026-09-16",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 3,
+    "fecha": "2026-09-16",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 4,
+    "fecha": "2026-09-16",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 5,
+    "fecha": "2026-09-16",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 6,
+    "fecha": "2026-09-16",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 7,
+    "fecha": "2026-09-16",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 8,
+    "fecha": "2026-09-16",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 9,
+    "fecha": "2026-09-16",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 10,
+    "fecha": "2026-09-16",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 11,
+    "fecha": "2026-09-16",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 12,
+    "fecha": "2026-09-16",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 13,
+    "fecha": "2026-09-16",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 14,
+    "fecha": "2026-09-16",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 15,
+    "fecha": "2026-09-16",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 16,
+    "fecha": "2026-09-16",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 17,
+    "fecha": "2026-09-17",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 18,
+    "fecha": "2026-09-17",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 19,
+    "fecha": "2026-09-17",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 20,
+    "fecha": "2026-09-17",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 21,
+    "fecha": "2026-09-17",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 22,
+    "fecha": "2026-09-17",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 23,
+    "fecha": "2026-09-17",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 24,
+    "fecha": "2026-09-17",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 25,
+    "fecha": "2026-09-17",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 26,
+    "fecha": "2026-09-17",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 2,
+    "precio": 9000,
+    "total": 18000
+  },
+  {
+    "id": 27,
+    "fecha": "2026-09-17",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 28,
+    "fecha": "2026-09-17",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 29,
+    "fecha": "2026-09-17",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 30,
+    "fecha": "2026-09-17",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 9000,
+    "total": 9000
+  },
+  {
+    "id": 31,
+    "fecha": "2026-09-17",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 32,
+    "fecha": "2026-09-17",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 33,
+    "fecha": "2026-09-17",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 34,
+    "fecha": "2026-09-17",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 35,
+    "fecha": "2026-09-17",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 36,
+    "fecha": "2026-09-17",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 8500,
+    "total": 17000
+  },
+  {
+    "id": 37,
+    "fecha": "2026-09-18",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 38,
+    "fecha": "2026-09-18",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 39,
+    "fecha": "2026-09-18",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 40,
+    "fecha": "2026-09-18",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 41,
+    "fecha": "2026-09-18",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 42,
+    "fecha": "2026-09-18",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 43,
+    "fecha": "2026-09-18",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 6000,
+    "total": 18000
+  },
+  {
+    "id": 44,
+    "fecha": "2026-09-18",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 45,
+    "fecha": "2026-09-18",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 46,
+    "fecha": "2026-09-18",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 47,
+    "fecha": "2026-09-18",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 48,
+    "fecha": "2026-09-18",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 49,
+    "fecha": "2026-09-18",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 50,
+    "fecha": "2026-09-18",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 8500,
+    "total": 8500
+  },
+  {
+    "id": 51,
+    "fecha": "2026-09-18",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 52,
+    "fecha": "2026-09-18",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 53,
+    "fecha": "2026-09-18",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 54,
+    "fecha": "2026-09-18",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2800,
+    "total": 2800
+  },
+  {
+    "id": 55,
+    "fecha": "2026-09-19",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 56,
+    "fecha": "2026-09-19",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 57,
+    "fecha": "2026-09-19",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 58,
+    "fecha": "2026-09-19",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 59,
+    "fecha": "2026-09-19",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 60,
+    "fecha": "2026-09-19",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 61,
+    "fecha": "2026-09-19",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 62,
+    "fecha": "2026-09-19",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 63,
+    "fecha": "2026-09-19",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 64,
+    "fecha": "2026-09-19",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 65,
+    "fecha": "2026-09-19",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 66,
+    "fecha": "2026-09-19",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 67,
+    "fecha": "2026-09-19",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 9000,
+    "total": 9000
+  },
+  {
+    "id": 68,
+    "fecha": "2026-09-19",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 8500,
+    "total": 17000
+  },
+  {
+    "id": 69,
+    "fecha": "2026-09-19",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 70,
+    "fecha": "2026-09-19",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 71,
+    "fecha": "2026-09-19",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 72,
+    "fecha": "2026-09-19",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 73,
+    "fecha": "2026-09-19",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 74,
+    "fecha": "2026-09-19",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 75,
+    "fecha": "2026-09-19",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 76,
+    "fecha": "2026-09-19",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 77,
+    "fecha": "2026-09-19",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 78,
+    "fecha": "2026-09-19",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 79,
+    "fecha": "2026-09-19",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 80,
+    "fecha": "2026-09-19",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 81,
+    "fecha": "2026-09-19",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 82,
+    "fecha": "2026-09-19",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 83,
+    "fecha": "2026-09-19",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 84,
+    "fecha": "2026-09-20",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 85,
+    "fecha": "2026-09-20",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 86,
+    "fecha": "2026-09-20",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 87,
+    "fecha": "2026-09-20",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 88,
+    "fecha": "2026-09-20",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 89,
+    "fecha": "2026-09-20",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 3,
+    "precio": 9000,
+    "total": 27000
+  },
+  {
+    "id": 90,
+    "fecha": "2026-09-20",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 91,
+    "fecha": "2026-09-20",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 92,
+    "fecha": "2026-09-20",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 93,
+    "fecha": "2026-09-20",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 94,
+    "fecha": "2026-09-20",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 95,
+    "fecha": "2026-09-20",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 96,
+    "fecha": "2026-09-20",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 97,
+    "fecha": "2026-09-20",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 98,
+    "fecha": "2026-09-20",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 8500,
+    "total": 25500
+  },
+  {
+    "id": 99,
+    "fecha": "2026-09-20",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 100,
+    "fecha": "2026-09-20",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 101,
+    "fecha": "2026-09-20",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 102,
+    "fecha": "2026-09-20",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 103,
+    "fecha": "2026-09-20",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 104,
+    "fecha": "2026-09-20",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 105,
+    "fecha": "2026-09-20",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 8500,
+    "total": 17000
+  },
+  {
+    "id": 106,
+    "fecha": "2026-09-20",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 107,
+    "fecha": "2026-09-20",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 108,
+    "fecha": "2026-09-21",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 109,
+    "fecha": "2026-09-21",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 6000,
+    "total": 18000
+  },
+  {
+    "id": 110,
+    "fecha": "2026-09-21",
+    "producto": "Torta de chocolate",
+    "categoria": "Postres",
+    "cantidad": 2,
+    "precio": 8000,
+    "total": 16000
+  },
+  {
+    "id": 111,
+    "fecha": "2026-09-21",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 112,
+    "fecha": "2026-09-21",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 113,
+    "fecha": "2026-09-21",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 114,
+    "fecha": "2026-09-21",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 115,
+    "fecha": "2026-09-21",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 116,
+    "fecha": "2026-09-21",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 117,
+    "fecha": "2026-09-21",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 118,
+    "fecha": "2026-09-21",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 119,
+    "fecha": "2026-09-21",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 8500,
+    "total": 25500
+  },
+  {
+    "id": 120,
+    "fecha": "2026-09-21",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 121,
+    "fecha": "2026-09-21",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 122,
+    "fecha": "2026-09-21",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 6000,
+    "total": 18000
+  },
+  {
+    "id": 123,
+    "fecha": "2026-09-21",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 124,
+    "fecha": "2026-09-21",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 125,
+    "fecha": "2026-09-21",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 126,
+    "fecha": "2026-09-21",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 8500,
+    "total": 17000
+  },
+  {
+    "id": 127,
+    "fecha": "2026-09-21",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 6500,
+    "total": 6500
+  },
+  {
+    "id": 128,
+    "fecha": "2026-09-22",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 129,
+    "fecha": "2026-09-22",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 130,
+    "fecha": "2026-09-22",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 131,
+    "fecha": "2026-09-22",
+    "producto": "Torta de chocolate",
+    "categoria": "Postres",
+    "cantidad": 2,
+    "precio": 8000,
+    "total": 16000
+  },
+  {
+    "id": 132,
+    "fecha": "2026-09-22",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 133,
+    "fecha": "2026-09-22",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 134,
+    "fecha": "2026-09-22",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 135,
+    "fecha": "2026-09-22",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 136,
+    "fecha": "2026-09-22",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 137,
+    "fecha": "2026-09-22",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 138,
+    "fecha": "2026-09-22",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 139,
+    "fecha": "2026-09-22",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 140,
+    "fecha": "2026-09-22",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 141,
+    "fecha": "2026-09-22",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 142,
+    "fecha": "2026-09-22",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 143,
+    "fecha": "2026-09-22",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 144,
+    "fecha": "2026-09-22",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 145,
+    "fecha": "2026-09-22",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 146,
+    "fecha": "2026-09-22",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 8500,
+    "total": 8500
+  },
+  {
+    "id": 147,
+    "fecha": "2026-09-22",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 148,
+    "fecha": "2026-09-22",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 6500,
+    "total": 6500
+  },
+  {
+    "id": 149,
+    "fecha": "2026-09-23",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 150,
+    "fecha": "2026-09-23",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 151,
+    "fecha": "2026-09-23",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 152,
+    "fecha": "2026-09-23",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 153,
+    "fecha": "2026-09-23",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 154,
+    "fecha": "2026-09-23",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 155,
+    "fecha": "2026-09-23",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 156,
+    "fecha": "2026-09-23",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 157,
+    "fecha": "2026-09-23",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 158,
+    "fecha": "2026-09-23",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 159,
+    "fecha": "2026-09-23",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 160,
+    "fecha": "2026-09-23",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 161,
+    "fecha": "2026-09-23",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 162,
+    "fecha": "2026-09-23",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 163,
+    "fecha": "2026-09-23",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 164,
+    "fecha": "2026-09-23",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 9000,
+    "total": 9000
+  },
+  {
+    "id": 165,
+    "fecha": "2026-09-23",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 166,
+    "fecha": "2026-09-23",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 167,
+    "fecha": "2026-09-23",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 168,
+    "fecha": "2026-09-23",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 169,
+    "fecha": "2026-09-24",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 170,
+    "fecha": "2026-09-24",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 171,
+    "fecha": "2026-09-24",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 172,
+    "fecha": "2026-09-24",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 173,
+    "fecha": "2026-09-24",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 174,
+    "fecha": "2026-09-24",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 175,
+    "fecha": "2026-09-24",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 176,
+    "fecha": "2026-09-24",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 177,
+    "fecha": "2026-09-24",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 178,
+    "fecha": "2026-09-24",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 179,
+    "fecha": "2026-09-24",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 180,
+    "fecha": "2026-09-24",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 181,
+    "fecha": "2026-09-24",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 182,
+    "fecha": "2026-09-24",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 183,
+    "fecha": "2026-09-24",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 184,
+    "fecha": "2026-09-24",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 185,
+    "fecha": "2026-09-24",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 186,
+    "fecha": "2026-09-24",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 187,
+    "fecha": "2026-09-24",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 188,
+    "fecha": "2026-09-25",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 189,
+    "fecha": "2026-09-25",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 190,
+    "fecha": "2026-09-25",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 191,
+    "fecha": "2026-09-25",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 192,
+    "fecha": "2026-09-25",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 193,
+    "fecha": "2026-09-25",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 194,
+    "fecha": "2026-09-25",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 195,
+    "fecha": "2026-09-25",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 196,
+    "fecha": "2026-09-25",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 197,
+    "fecha": "2026-09-25",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 198,
+    "fecha": "2026-09-25",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 6500,
+    "total": 19500
+  },
+  {
+    "id": 199,
+    "fecha": "2026-09-25",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 200,
+    "fecha": "2026-09-25",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 201,
+    "fecha": "2026-09-25",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 202,
+    "fecha": "2026-09-25",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 203,
+    "fecha": "2026-09-25",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 204,
+    "fecha": "2026-09-25",
+    "producto": "Torta de chocolate",
+    "categoria": "Postres",
+    "cantidad": 3,
+    "precio": 8000,
+    "total": 24000
+  },
+  {
+    "id": 205,
+    "fecha": "2026-09-25",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 206,
+    "fecha": "2026-09-25",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 207,
+    "fecha": "2026-09-25",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 208,
+    "fecha": "2026-09-25",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 209,
+    "fecha": "2026-09-26",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 210,
+    "fecha": "2026-09-26",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 211,
+    "fecha": "2026-09-26",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 212,
+    "fecha": "2026-09-26",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 6000,
+    "total": 18000
+  },
+  {
+    "id": 213,
+    "fecha": "2026-09-26",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 214,
+    "fecha": "2026-09-26",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 215,
+    "fecha": "2026-09-26",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 216,
+    "fecha": "2026-09-26",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 217,
+    "fecha": "2026-09-26",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 218,
+    "fecha": "2026-09-26",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 219,
+    "fecha": "2026-09-26",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 220,
+    "fecha": "2026-09-26",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 221,
+    "fecha": "2026-09-26",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 222,
+    "fecha": "2026-09-26",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 223,
+    "fecha": "2026-09-26",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 224,
+    "fecha": "2026-09-26",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 225,
+    "fecha": "2026-09-26",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 226,
+    "fecha": "2026-09-26",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 227,
+    "fecha": "2026-09-26",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2800,
+    "total": 2800
+  },
+  {
+    "id": 228,
+    "fecha": "2026-09-26",
+    "producto": "Torta de chocolate",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 8000,
+    "total": 8000
+  },
+  {
+    "id": 229,
+    "fecha": "2026-09-26",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 230,
+    "fecha": "2026-09-26",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 231,
+    "fecha": "2026-09-26",
+    "producto": "Torta de chocolate",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 8000,
+    "total": 8000
+  },
+  {
+    "id": 232,
+    "fecha": "2026-09-26",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 233,
+    "fecha": "2026-09-26",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 234,
+    "fecha": "2026-09-26",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 235,
+    "fecha": "2026-09-26",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 236,
+    "fecha": "2026-09-26",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 237,
+    "fecha": "2026-09-26",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 238,
+    "fecha": "2026-09-27",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 239,
+    "fecha": "2026-09-27",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 240,
+    "fecha": "2026-09-27",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 2,
+    "precio": 9000,
+    "total": 18000
+  },
+  {
+    "id": 241,
+    "fecha": "2026-09-27",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 242,
+    "fecha": "2026-09-27",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 243,
+    "fecha": "2026-09-27",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 244,
+    "fecha": "2026-09-27",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 245,
+    "fecha": "2026-09-27",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 246,
+    "fecha": "2026-09-27",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 247,
+    "fecha": "2026-09-27",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 248,
+    "fecha": "2026-09-27",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 249,
+    "fecha": "2026-09-27",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 250,
+    "fecha": "2026-09-27",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 251,
+    "fecha": "2026-09-27",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 252,
+    "fecha": "2026-09-27",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 253,
+    "fecha": "2026-09-27",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2800,
+    "total": 2800
+  },
+  {
+    "id": 254,
+    "fecha": "2026-09-27",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 255,
+    "fecha": "2026-09-27",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 256,
+    "fecha": "2026-09-27",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 257,
+    "fecha": "2026-09-27",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 6500,
+    "total": 6500
+  },
+  {
+    "id": 258,
+    "fecha": "2026-09-27",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 8500,
+    "total": 25500
+  },
+  {
+    "id": 259,
+    "fecha": "2026-09-27",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 260,
+    "fecha": "2026-09-27",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 6500,
+    "total": 6500
+  },
+  {
+    "id": 261,
+    "fecha": "2026-09-27",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 8500,
+    "total": 17000
+  },
+  {
+    "id": 262,
+    "fecha": "2026-09-27",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 263,
+    "fecha": "2026-09-28",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 264,
+    "fecha": "2026-09-28",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 265,
+    "fecha": "2026-09-28",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 266,
+    "fecha": "2026-09-28",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 6000,
+    "total": 18000
+  },
+  {
+    "id": 267,
+    "fecha": "2026-09-28",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 268,
+    "fecha": "2026-09-28",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 269,
+    "fecha": "2026-09-28",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 270,
+    "fecha": "2026-09-28",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 271,
+    "fecha": "2026-09-28",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 272,
+    "fecha": "2026-09-28",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 273,
+    "fecha": "2026-09-28",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 274,
+    "fecha": "2026-09-28",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 275,
+    "fecha": "2026-09-28",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 276,
+    "fecha": "2026-09-28",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 277,
+    "fecha": "2026-09-28",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 278,
+    "fecha": "2026-09-28",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 279,
+    "fecha": "2026-09-28",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 280,
+    "fecha": "2026-09-28",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 281,
+    "fecha": "2026-09-28",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 282,
+    "fecha": "2026-09-28",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 283,
+    "fecha": "2026-09-28",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 284,
+    "fecha": "2026-09-28",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 285,
+    "fecha": "2026-09-28",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 286,
+    "fecha": "2026-09-29",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 287,
+    "fecha": "2026-09-29",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 288,
+    "fecha": "2026-09-29",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 289,
+    "fecha": "2026-09-29",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 290,
+    "fecha": "2026-09-29",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 291,
+    "fecha": "2026-09-29",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 292,
+    "fecha": "2026-09-29",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 293,
+    "fecha": "2026-09-29",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 294,
+    "fecha": "2026-09-29",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 295,
+    "fecha": "2026-09-29",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 296,
+    "fecha": "2026-09-29",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 6500,
+    "total": 19500
+  },
+  {
+    "id": 297,
+    "fecha": "2026-09-29",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 298,
+    "fecha": "2026-09-29",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 6500,
+    "total": 19500
+  },
+  {
+    "id": 299,
+    "fecha": "2026-09-29",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 300,
+    "fecha": "2026-09-29",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 301,
+    "fecha": "2026-09-29",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 302,
+    "fecha": "2026-09-29",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 303,
+    "fecha": "2026-09-29",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 304,
+    "fecha": "2026-09-29",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 305,
+    "fecha": "2026-09-29",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 306,
+    "fecha": "2026-09-29",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 9000,
+    "total": 9000
+  },
+  {
+    "id": 307,
+    "fecha": "2026-09-29",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 8500,
+    "total": 25500
+  },
+  {
+    "id": 308,
+    "fecha": "2026-09-30",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 309,
+    "fecha": "2026-09-30",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 310,
+    "fecha": "2026-09-30",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 311,
+    "fecha": "2026-09-30",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 6500,
+    "total": 19500
+  },
+  {
+    "id": 312,
+    "fecha": "2026-09-30",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 313,
+    "fecha": "2026-09-30",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 314,
+    "fecha": "2026-09-30",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 315,
+    "fecha": "2026-09-30",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 316,
+    "fecha": "2026-09-30",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 317,
+    "fecha": "2026-09-30",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 318,
+    "fecha": "2026-09-30",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 319,
+    "fecha": "2026-09-30",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 320,
+    "fecha": "2026-09-30",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 321,
+    "fecha": "2026-09-30",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 322,
+    "fecha": "2026-09-30",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 323,
+    "fecha": "2026-09-30",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 3,
+    "precio": 9000,
+    "total": 27000
+  },
+  {
+    "id": 324,
+    "fecha": "2026-09-30",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 325,
+    "fecha": "2026-09-30",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 326,
+    "fecha": "2026-09-30",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 327,
+    "fecha": "2026-09-30",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 328,
+    "fecha": "2026-09-30",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 329,
+    "fecha": "2026-09-30",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 330,
+    "fecha": "2026-10-01",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 331,
+    "fecha": "2026-10-01",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 332,
+    "fecha": "2026-10-01",
+    "producto": "Torta de chocolate",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 8000,
+    "total": 8000
+  },
+  {
+    "id": 333,
+    "fecha": "2026-10-01",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 334,
+    "fecha": "2026-10-01",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 335,
+    "fecha": "2026-10-01",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 336,
+    "fecha": "2026-10-01",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 6500,
+    "total": 6500
+  },
+  {
+    "id": 337,
+    "fecha": "2026-10-01",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 338,
+    "fecha": "2026-10-01",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 6500,
+    "total": 19500
+  },
+  {
+    "id": 339,
+    "fecha": "2026-10-01",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 9000,
+    "total": 9000
+  },
+  {
+    "id": 340,
+    "fecha": "2026-10-01",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 341,
+    "fecha": "2026-10-01",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 342,
+    "fecha": "2026-10-01",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 343,
+    "fecha": "2026-10-01",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 8500,
+    "total": 8500
+  },
+  {
+    "id": 344,
+    "fecha": "2026-10-01",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 345,
+    "fecha": "2026-10-01",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 346,
+    "fecha": "2026-10-01",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 347,
+    "fecha": "2026-10-01",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 348,
+    "fecha": "2026-10-01",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 349,
+    "fecha": "2026-10-01",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 350,
+    "fecha": "2026-10-01",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 351,
+    "fecha": "2026-10-01",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 352,
+    "fecha": "2026-10-02",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 8500,
+    "total": 8500
+  },
+  {
+    "id": 353,
+    "fecha": "2026-10-02",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 354,
+    "fecha": "2026-10-02",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 355,
+    "fecha": "2026-10-02",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 356,
+    "fecha": "2026-10-02",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 357,
+    "fecha": "2026-10-02",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 358,
+    "fecha": "2026-10-02",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 359,
+    "fecha": "2026-10-02",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 360,
+    "fecha": "2026-10-02",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 361,
+    "fecha": "2026-10-02",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 362,
+    "fecha": "2026-10-02",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 363,
+    "fecha": "2026-10-02",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 8500,
+    "total": 17000
+  },
+  {
+    "id": 364,
+    "fecha": "2026-10-02",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 365,
+    "fecha": "2026-10-02",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 366,
+    "fecha": "2026-10-02",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 367,
+    "fecha": "2026-10-02",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 368,
+    "fecha": "2026-10-02",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 369,
+    "fecha": "2026-10-02",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 370,
+    "fecha": "2026-10-02",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 371,
+    "fecha": "2026-10-02",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 372,
+    "fecha": "2026-10-03",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 373,
+    "fecha": "2026-10-03",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 374,
+    "fecha": "2026-10-03",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 375,
+    "fecha": "2026-10-03",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 6000,
+    "total": 18000
+  },
+  {
+    "id": 376,
+    "fecha": "2026-10-03",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 377,
+    "fecha": "2026-10-03",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 378,
+    "fecha": "2026-10-03",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 379,
+    "fecha": "2026-10-03",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 380,
+    "fecha": "2026-10-03",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 381,
+    "fecha": "2026-10-03",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 382,
+    "fecha": "2026-10-03",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 383,
+    "fecha": "2026-10-03",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 384,
+    "fecha": "2026-10-03",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 8500,
+    "total": 25500
+  },
+  {
+    "id": 385,
+    "fecha": "2026-10-03",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 386,
+    "fecha": "2026-10-03",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 387,
+    "fecha": "2026-10-03",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 388,
+    "fecha": "2026-10-03",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 389,
+    "fecha": "2026-10-03",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 6500,
+    "total": 19500
+  },
+  {
+    "id": 390,
+    "fecha": "2026-10-03",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 391,
+    "fecha": "2026-10-03",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 392,
+    "fecha": "2026-10-03",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 393,
+    "fecha": "2026-10-03",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 394,
+    "fecha": "2026-10-03",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 395,
+    "fecha": "2026-10-03",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 396,
+    "fecha": "2026-10-03",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 397,
+    "fecha": "2026-10-03",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 8500,
+    "total": 17000
+  },
+  {
+    "id": 398,
+    "fecha": "2026-10-03",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 6000,
+    "total": 18000
+  },
+  {
+    "id": 399,
+    "fecha": "2026-10-03",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 400,
+    "fecha": "2026-10-03",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 401,
+    "fecha": "2026-10-03",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2800,
+    "total": 2800
+  },
+  {
+    "id": 402,
+    "fecha": "2026-10-03",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 403,
+    "fecha": "2026-10-03",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 404,
+    "fecha": "2026-10-04",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 405,
+    "fecha": "2026-10-04",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 406,
+    "fecha": "2026-10-04",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 407,
+    "fecha": "2026-10-04",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 408,
+    "fecha": "2026-10-04",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 8500,
+    "total": 25500
+  },
+  {
+    "id": 409,
+    "fecha": "2026-10-04",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 410,
+    "fecha": "2026-10-04",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 411,
+    "fecha": "2026-10-04",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 412,
+    "fecha": "2026-10-04",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 413,
+    "fecha": "2026-10-04",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 414,
+    "fecha": "2026-10-04",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 2,
+    "precio": 9000,
+    "total": 18000
+  },
+  {
+    "id": 415,
+    "fecha": "2026-10-04",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 2,
+    "precio": 9000,
+    "total": 18000
+  },
+  {
+    "id": 416,
+    "fecha": "2026-10-04",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 6500,
+    "total": 6500
+  },
+  {
+    "id": 417,
+    "fecha": "2026-10-04",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 418,
+    "fecha": "2026-10-04",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 419,
+    "fecha": "2026-10-04",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 420,
+    "fecha": "2026-10-04",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 421,
+    "fecha": "2026-10-04",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 9000,
+    "total": 9000
+  },
+  {
+    "id": 422,
+    "fecha": "2026-10-04",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 423,
+    "fecha": "2026-10-04",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 424,
+    "fecha": "2026-10-04",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 425,
+    "fecha": "2026-10-04",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 426,
+    "fecha": "2026-10-04",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 427,
+    "fecha": "2026-10-04",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 428,
+    "fecha": "2026-10-04",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 429,
+    "fecha": "2026-10-04",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 430,
+    "fecha": "2026-10-04",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 6500,
+    "total": 6500
+  },
+  {
+    "id": 431,
+    "fecha": "2026-10-04",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 432,
+    "fecha": "2026-10-04",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 433,
+    "fecha": "2026-10-05",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 434,
+    "fecha": "2026-10-05",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 435,
+    "fecha": "2026-10-05",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 436,
+    "fecha": "2026-10-05",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 437,
+    "fecha": "2026-10-05",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 438,
+    "fecha": "2026-10-05",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 439,
+    "fecha": "2026-10-05",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 440,
+    "fecha": "2026-10-05",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 441,
+    "fecha": "2026-10-05",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 442,
+    "fecha": "2026-10-05",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 443,
+    "fecha": "2026-10-05",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 444,
+    "fecha": "2026-10-05",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 445,
+    "fecha": "2026-10-05",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 446,
+    "fecha": "2026-10-05",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 447,
+    "fecha": "2026-10-05",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 448,
+    "fecha": "2026-10-05",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 449,
+    "fecha": "2026-10-05",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 450,
+    "fecha": "2026-10-05",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 451,
+    "fecha": "2026-10-05",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 452,
+    "fecha": "2026-10-05",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 453,
+    "fecha": "2026-10-05",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 454,
+    "fecha": "2026-10-05",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 455,
+    "fecha": "2026-10-06",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 456,
+    "fecha": "2026-10-06",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 457,
+    "fecha": "2026-10-06",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 458,
+    "fecha": "2026-10-06",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 459,
+    "fecha": "2026-10-06",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 460,
+    "fecha": "2026-10-06",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 461,
+    "fecha": "2026-10-06",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 462,
+    "fecha": "2026-10-06",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 463,
+    "fecha": "2026-10-06",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 464,
+    "fecha": "2026-10-06",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 465,
+    "fecha": "2026-10-06",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 466,
+    "fecha": "2026-10-06",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 467,
+    "fecha": "2026-10-06",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 468,
+    "fecha": "2026-10-06",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 469,
+    "fecha": "2026-10-06",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 470,
+    "fecha": "2026-10-06",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 471,
+    "fecha": "2026-10-06",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 472,
+    "fecha": "2026-10-06",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 473,
+    "fecha": "2026-10-06",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 8500,
+    "total": 8500
+  },
+  {
+    "id": 474,
+    "fecha": "2026-10-06",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 475,
+    "fecha": "2026-10-06",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 476,
+    "fecha": "2026-10-06",
+    "producto": "Torta de chocolate",
+    "categoria": "Postres",
+    "cantidad": 3,
+    "precio": 8000,
+    "total": 24000
+  },
+  {
+    "id": 477,
+    "fecha": "2026-10-06",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 478,
+    "fecha": "2026-10-07",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 479,
+    "fecha": "2026-10-07",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 480,
+    "fecha": "2026-10-07",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 481,
+    "fecha": "2026-10-07",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 482,
+    "fecha": "2026-10-07",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 483,
+    "fecha": "2026-10-08",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 6500,
+    "total": 19500
+  },
+  {
+    "id": 484,
+    "fecha": "2026-10-08",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 485,
+    "fecha": "2026-10-08",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 486,
+    "fecha": "2026-10-08",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 9000,
+    "total": 9000
+  },
+  {
+    "id": 487,
+    "fecha": "2026-10-08",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 488,
+    "fecha": "2026-10-08",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 489,
+    "fecha": "2026-10-08",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 490,
+    "fecha": "2026-10-08",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 491,
+    "fecha": "2026-10-08",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 492,
+    "fecha": "2026-10-08",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 493,
+    "fecha": "2026-10-08",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 494,
+    "fecha": "2026-10-08",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 495,
+    "fecha": "2026-10-08",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 496,
+    "fecha": "2026-10-08",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 6500,
+    "total": 6500
+  },
+  {
+    "id": 497,
+    "fecha": "2026-10-08",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 498,
+    "fecha": "2026-10-08",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 499,
+    "fecha": "2026-10-08",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 500,
+    "fecha": "2026-10-08",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 501,
+    "fecha": "2026-10-08",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 502,
+    "fecha": "2026-10-08",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 503,
+    "fecha": "2026-10-08",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 504,
+    "fecha": "2026-10-08",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 505,
+    "fecha": "2026-10-08",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 506,
+    "fecha": "2026-10-08",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 507,
+    "fecha": "2026-10-09",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 508,
+    "fecha": "2026-10-09",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 6000,
+    "total": 18000
+  },
+  {
+    "id": 509,
+    "fecha": "2026-10-09",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 6500,
+    "total": 6500
+  },
+  {
+    "id": 510,
+    "fecha": "2026-10-09",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 511,
+    "fecha": "2026-10-09",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 512,
+    "fecha": "2026-10-09",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 513,
+    "fecha": "2026-10-09",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 514,
+    "fecha": "2026-10-09",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 515,
+    "fecha": "2026-10-09",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 516,
+    "fecha": "2026-10-09",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 517,
+    "fecha": "2026-10-09",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 518,
+    "fecha": "2026-10-09",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2800,
+    "total": 2800
+  },
+  {
+    "id": 519,
+    "fecha": "2026-10-09",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 520,
+    "fecha": "2026-10-09",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 8500,
+    "total": 8500
+  },
+  {
+    "id": 521,
+    "fecha": "2026-10-09",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 522,
+    "fecha": "2026-10-09",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 523,
+    "fecha": "2026-10-09",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2800,
+    "total": 2800
+  },
+  {
+    "id": 524,
+    "fecha": "2026-10-09",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 8500,
+    "total": 8500
+  },
+  {
+    "id": 525,
+    "fecha": "2026-10-09",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 526,
+    "fecha": "2026-10-09",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 527,
+    "fecha": "2026-10-09",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 6500,
+    "total": 6500
+  },
+  {
+    "id": 528,
+    "fecha": "2026-10-09",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 529,
+    "fecha": "2026-10-09",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 530,
+    "fecha": "2026-10-09",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2800,
+    "total": 2800
+  },
+  {
+    "id": 531,
+    "fecha": "2026-10-09",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 532,
+    "fecha": "2026-10-09",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 2,
+    "precio": 9000,
+    "total": 18000
+  },
+  {
+    "id": 533,
+    "fecha": "2026-10-10",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 6500,
+    "total": 6500
+  },
+  {
+    "id": 534,
+    "fecha": "2026-10-10",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 535,
+    "fecha": "2026-10-10",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 536,
+    "fecha": "2026-10-10",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 537,
+    "fecha": "2026-10-10",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 538,
+    "fecha": "2026-10-10",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 539,
+    "fecha": "2026-10-10",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 540,
+    "fecha": "2026-10-10",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 541,
+    "fecha": "2026-10-10",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 542,
+    "fecha": "2026-10-10",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 543,
+    "fecha": "2026-10-10",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 544,
+    "fecha": "2026-10-10",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 545,
+    "fecha": "2026-10-10",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 6000,
+    "total": 18000
+  },
+  {
+    "id": 546,
+    "fecha": "2026-10-10",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 547,
+    "fecha": "2026-10-10",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 548,
+    "fecha": "2026-10-10",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 549,
+    "fecha": "2026-10-10",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 550,
+    "fecha": "2026-10-10",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 3,
+    "precio": 9000,
+    "total": 27000
+  },
+  {
+    "id": 551,
+    "fecha": "2026-10-10",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 3,
+    "precio": 9000,
+    "total": 27000
+  },
+  {
+    "id": 552,
+    "fecha": "2026-10-10",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 9000,
+    "total": 9000
+  },
+  {
+    "id": 553,
+    "fecha": "2026-10-10",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2800,
+    "total": 2800
+  },
+  {
+    "id": 554,
+    "fecha": "2026-10-10",
+    "producto": "Torta de chocolate",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 8000,
+    "total": 8000
+  },
+  {
+    "id": 555,
+    "fecha": "2026-10-10",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 556,
+    "fecha": "2026-10-10",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 557,
+    "fecha": "2026-10-10",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 558,
+    "fecha": "2026-10-10",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 559,
+    "fecha": "2026-10-10",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 560,
+    "fecha": "2026-10-10",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 561,
+    "fecha": "2026-10-10",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 562,
+    "fecha": "2026-10-10",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 563,
+    "fecha": "2026-10-10",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 564,
+    "fecha": "2026-10-10",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 565,
+    "fecha": "2026-10-10",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 566,
+    "fecha": "2026-10-10",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 567,
+    "fecha": "2026-10-10",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 568,
+    "fecha": "2026-10-11",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 569,
+    "fecha": "2026-10-11",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 570,
+    "fecha": "2026-10-11",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 9000,
+    "total": 9000
+  },
+  {
+    "id": 571,
+    "fecha": "2026-10-11",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 572,
+    "fecha": "2026-10-11",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 573,
+    "fecha": "2026-10-11",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 574,
+    "fecha": "2026-10-11",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 575,
+    "fecha": "2026-10-11",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 6500,
+    "total": 19500
+  },
+  {
+    "id": 576,
+    "fecha": "2026-10-11",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2800,
+    "total": 2800
+  },
+  {
+    "id": 577,
+    "fecha": "2026-10-11",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 578,
+    "fecha": "2026-10-11",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 579,
+    "fecha": "2026-10-11",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 9000,
+    "total": 9000
+  },
+  {
+    "id": 580,
+    "fecha": "2026-10-11",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 581,
+    "fecha": "2026-10-11",
+    "producto": "Torta de chocolate",
+    "categoria": "Postres",
+    "cantidad": 1,
+    "precio": 8000,
+    "total": 8000
+  },
+  {
+    "id": 582,
+    "fecha": "2026-10-11",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 6000,
+    "total": 18000
+  },
+  {
+    "id": 583,
+    "fecha": "2026-10-11",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 584,
+    "fecha": "2026-10-11",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 585,
+    "fecha": "2026-10-11",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 586,
+    "fecha": "2026-10-11",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 2,
+    "precio": 9000,
+    "total": 18000
+  },
+  {
+    "id": 587,
+    "fecha": "2026-10-11",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 588,
+    "fecha": "2026-10-11",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 589,
+    "fecha": "2026-10-11",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 8500,
+    "total": 17000
+  },
+  {
+    "id": 590,
+    "fecha": "2026-10-11",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 591,
+    "fecha": "2026-10-11",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 592,
+    "fecha": "2026-10-11",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 593,
+    "fecha": "2026-10-11",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 594,
+    "fecha": "2026-10-11",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 595,
+    "fecha": "2026-10-12",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 596,
+    "fecha": "2026-10-12",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 597,
+    "fecha": "2026-10-12",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 598,
+    "fecha": "2026-10-12",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 599,
+    "fecha": "2026-10-12",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 600,
+    "fecha": "2026-10-12",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 601,
+    "fecha": "2026-10-12",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 602,
+    "fecha": "2026-10-12",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 603,
+    "fecha": "2026-10-12",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 6500,
+    "total": 19500
+  },
+  {
+    "id": 604,
+    "fecha": "2026-10-12",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 605,
+    "fecha": "2026-10-12",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 606,
+    "fecha": "2026-10-12",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 607,
+    "fecha": "2026-10-12",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 608,
+    "fecha": "2026-10-12",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 609,
+    "fecha": "2026-10-12",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 610,
+    "fecha": "2026-10-12",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 611,
+    "fecha": "2026-10-12",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 612,
+    "fecha": "2026-10-12",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 613,
+    "fecha": "2026-10-12",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 614,
+    "fecha": "2026-10-12",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 615,
+    "fecha": "2026-10-12",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 616,
+    "fecha": "2026-10-12",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 617,
+    "fecha": "2026-10-12",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 618,
+    "fecha": "2026-10-12",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 619,
+    "fecha": "2026-10-12",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 620,
+    "fecha": "2026-10-13",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 621,
+    "fecha": "2026-10-13",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 622,
+    "fecha": "2026-10-13",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  },
+  {
+    "id": 623,
+    "fecha": "2026-10-13",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 624,
+    "fecha": "2026-10-13",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 625,
+    "fecha": "2026-10-13",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 626,
+    "fecha": "2026-10-13",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 627,
+    "fecha": "2026-10-13",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 628,
+    "fecha": "2026-10-13",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 629,
+    "fecha": "2026-10-13",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 630,
+    "fecha": "2026-10-13",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 631,
+    "fecha": "2026-10-13",
+    "producto": "Torta de chocolate",
+    "categoria": "Postres",
+    "cantidad": 2,
+    "precio": 8000,
+    "total": 16000
+  },
+  {
+    "id": 632,
+    "fecha": "2026-10-13",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 633,
+    "fecha": "2026-10-13",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 634,
+    "fecha": "2026-10-13",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 635,
+    "fecha": "2026-10-13",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 636,
+    "fecha": "2026-10-13",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 637,
+    "fecha": "2026-10-13",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 638,
+    "fecha": "2026-10-13",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 639,
+    "fecha": "2026-10-13",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 640,
+    "fecha": "2026-10-13",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 641,
+    "fecha": "2026-10-13",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 642,
+    "fecha": "2026-10-13",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 3,
+    "precio": 9000,
+    "total": 27000
+  },
+  {
+    "id": 643,
+    "fecha": "2026-10-13",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 644,
+    "fecha": "2026-10-13",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 6000,
+    "total": 12000
+  },
+  {
+    "id": 645,
+    "fecha": "2026-10-13",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 646,
+    "fecha": "2026-10-14",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 647,
+    "fecha": "2026-10-14",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 6500,
+    "total": 13000
+  },
+  {
+    "id": 648,
+    "fecha": "2026-10-14",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 649,
+    "fecha": "2026-10-14",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 9500,
+    "total": 9500
+  },
+  {
+    "id": 650,
+    "fecha": "2026-10-14",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 651,
+    "fecha": "2026-10-14",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 2,
+    "precio": 9000,
+    "total": 18000
+  },
+  {
+    "id": 652,
+    "fecha": "2026-10-14",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 653,
+    "fecha": "2026-10-14",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 654,
+    "fecha": "2026-10-14",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 6000,
+    "total": 18000
+  },
+  {
+    "id": 655,
+    "fecha": "2026-10-14",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2800,
+    "total": 2800
+  },
+  {
+    "id": 656,
+    "fecha": "2026-10-14",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 657,
+    "fecha": "2026-10-14",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 658,
+    "fecha": "2026-10-14",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 659,
+    "fecha": "2026-10-14",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 660,
+    "fecha": "2026-10-14",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 661,
+    "fecha": "2026-10-14",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 1,
+    "precio": 8500,
+    "total": 8500
+  },
+  {
+    "id": 662,
+    "fecha": "2026-10-14",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7500,
+    "total": 7500
+  },
+  {
+    "id": 663,
+    "fecha": "2026-10-14",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 664,
+    "fecha": "2026-10-14",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 665,
+    "fecha": "2026-10-14",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 5000,
+    "total": 15000
+  },
+  {
+    "id": 666,
+    "fecha": "2026-10-14",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7500,
+    "total": 22500
+  },
+  {
+    "id": 667,
+    "fecha": "2026-10-14",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 8500,
+    "total": 17000
+  },
+  {
+    "id": 668,
+    "fecha": "2026-10-14",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 2,
+    "precio": 9500,
+    "total": 19000
+  },
+  {
+    "id": 669,
+    "fecha": "2026-10-14",
+    "producto": "Cold brew",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 8500,
+    "total": 25500
+  },
+  {
+    "id": 670,
+    "fecha": "2026-10-14",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 671,
+    "fecha": "2026-10-15",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 672,
+    "fecha": "2026-10-15",
+    "producto": "Torta de chocolate",
+    "categoria": "Postres",
+    "cantidad": 2,
+    "precio": 8000,
+    "total": 16000
+  },
+  {
+    "id": 673,
+    "fecha": "2026-10-15",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 5000,
+    "total": 5000
+  },
+  {
+    "id": 674,
+    "fecha": "2026-10-15",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 675,
+    "fecha": "2026-10-15",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2800,
+    "total": 5600
+  },
+  {
+    "id": 676,
+    "fecha": "2026-10-15",
+    "producto": "Croissant",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 5000,
+    "total": 10000
+  },
+  {
+    "id": 677,
+    "fecha": "2026-10-15",
+    "producto": "Chocolate",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 6000,
+    "total": 6000
+  },
+  {
+    "id": 678,
+    "fecha": "2026-10-15",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 679,
+    "fecha": "2026-10-15",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7000,
+    "total": 14000
+  },
+  {
+    "id": 680,
+    "fecha": "2026-10-15",
+    "producto": "Cheesecake",
+    "categoria": "Postres",
+    "cantidad": 3,
+    "precio": 9000,
+    "total": 27000
+  },
+  {
+    "id": 681,
+    "fecha": "2026-10-15",
+    "producto": "Frappé",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 9500,
+    "total": 28500
+  },
+  {
+    "id": 682,
+    "fecha": "2026-10-15",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 683,
+    "fecha": "2026-10-15",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 684,
+    "fecha": "2026-10-15",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 1,
+    "precio": 2500,
+    "total": 2500
+  },
+  {
+    "id": 685,
+    "fecha": "2026-10-15",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 2,
+    "precio": 2500,
+    "total": 5000
+  },
+  {
+    "id": 686,
+    "fecha": "2026-10-15",
+    "producto": "Pandebono",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 687,
+    "fecha": "2026-10-15",
+    "producto": "Limonada natural",
+    "categoria": "Bebidas frías",
+    "cantidad": 3,
+    "precio": 6500,
+    "total": 19500
+  },
+  {
+    "id": 688,
+    "fecha": "2026-10-15",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 689,
+    "fecha": "2026-10-15",
+    "producto": "Latte",
+    "categoria": "Bebidas calientes",
+    "cantidad": 2,
+    "precio": 7500,
+    "total": 15000
+  },
+  {
+    "id": 690,
+    "fecha": "2026-10-15",
+    "producto": "Tinto",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 2500,
+    "total": 7500
+  },
+  {
+    "id": 691,
+    "fecha": "2026-10-15",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 692,
+    "fecha": "2026-10-15",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 3,
+    "precio": 7000,
+    "total": 21000
+  },
+  {
+    "id": 693,
+    "fecha": "2026-10-15",
+    "producto": "Capuccino",
+    "categoria": "Bebidas calientes",
+    "cantidad": 1,
+    "precio": 7000,
+    "total": 7000
+  },
+  {
+    "id": 694,
+    "fecha": "2026-10-15",
+    "producto": "Almojábana",
+    "categoria": "Panadería",
+    "cantidad": 3,
+    "precio": 2800,
+    "total": 8400
+  }
+]

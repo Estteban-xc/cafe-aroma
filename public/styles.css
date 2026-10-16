@@ -1,0 +1,103 @@
+:root {
+  --crema: #f7f1e8;
+  --papel: #fffdf9;
+  --espresso: #2b1d14;
+  --cafe: #6f4e37;
+  --caramelo: #c8813a;
+  --leche: #e9dccb;
+  --texto-suave: #7a6a5d;
+  --verde: #3f7d58;
+  --rojo: #b5483b;
+  --azul: #3d6b8c;
+  --radio: 16px;
+  --sombra: 0 1px 2px rgba(43, 29, 20, .06), 0 6px 20px rgba(43, 29, 20, .05);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'DM Sans', system-ui, sans-serif;
+  background: var(--crema);
+  color: var(--espresso);
+  line-height: 1.45;
+}
+
+/* ---------- Barra superior ---------- */
+.topbar {
+  display: flex; justify-content: space-between; align-items: center;
+  gap: 16px; flex-wrap: wrap;
+  padding: 20px clamp(16px, 4vw, 40px);
+  background: var(--espresso); color: var(--crema);
+}
+.brand { display: flex; align-items: center; gap: 14px; }
+.logo {
+  display: grid; place-items: center;
+  width: 48px; height: 48px; border-radius: 14px;
+  background: var(--caramelo); font-size: 26px;
+}
+.brand h1 { font-family: 'Fraunces', serif; font-size: 1.6rem; letter-spacing: -.01em; }
+.brand p { font-size: .9rem; opacity: .75; }
+.estado { display: flex; align-items: center; gap: 8px; font-size: .85rem; opacity: .85; }
+.punto { width: 9px; height: 9px; border-radius: 50%; background: var(--caramelo); }
+.punto.vivo { background: #7fd19b; box-shadow: 0 0 0 4px rgba(127, 209, 155, .2); }
+
+main { padding: 24px clamp(16px, 4vw, 40px) 8px; max-width: 1400px; margin: 0 auto; }
+
+/* ---------- KPIs ---------- */
+.kpis {
+  display: grid; gap: 14px;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  margin-bottom: 20px;
+}
+.kpi {
+  background: var(--papel); border-radius: var(--radio); box-shadow: var(--sombra);
+  padding: 18px 20px; border: 1px solid var(--leche);
+}
+.kpi span { display: block; font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; color: var(--texto-suave); }
+.kpi strong { display: block; margin-top: 6px; font-family: 'Fraunces', serif; font-size: 1.7rem; font-variant-numeric: tabular-nums; }
+.kpi.destacado { background: var(--cafe); border-color: var(--cafe); color: var(--crema); }
+.kpi.destacado span { color: var(--leche); }
+.kpi.flash { animation: flash .9s ease; }
+@keyframes flash { 0% { transform: scale(1); } 30% { transform: scale(1.03); box-shadow: 0 0 0 4px rgba(200,129,58,.35); } 100% { transform: scale(1); } }
+
+/* ---------- Tarjetas ---------- */
+.grid { display: grid; gap: 20px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.card {
+  background: var(--papel); border-radius: var(--radio); box-shadow: var(--sombra);
+  border: 1px solid var(--leche); padding: 20px; min-width: 0;
+}
+.card.ancha { grid-column: 1 / -1; }
+.card header { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 14px; }
+.card h2 { font-size: 1rem; font-weight: 700; }
+.chip { font-size: .75rem; padding: 4px 10px; border-radius: 99px; background: var(--leche); color: var(--cafe); white-space: nowrap; }
+.lienzo { position: relative; height: 280px; }
+.lienzo.alto { height: 320px; }
+
+/* ---------- Panel IA ---------- */
+.card.ia { background: linear-gradient(160deg, var(--papel), #f6ecdf); }
+.ia-chip { background: var(--espresso); color: var(--crema); font-weight: 700; }
+.sub { font-size: .85rem; color: var(--texto-suave); margin: -6px 0 12px; }
+.recs { list-style: none; display: flex; flex-direction: column; gap: 10px; max-height: 300px; overflow-y: auto; padding-right: 4px; }
+.recs li {
+  font-size: .9rem; padding: 10px 12px 10px 14px; border-radius: 10px;
+  background: var(--papel); border-left: 4px solid var(--azul);
+}
+.recs li.alerta { border-left-color: var(--rojo); }
+.recs li.exito { border-left-color: var(--verde); }
+
+/* ---------- Tabla ---------- */
+.tabla-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--leche); white-space: nowrap; }
+th { font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; color: var(--texto-suave); }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+tr.nueva { animation: nueva 2s ease; }
+@keyframes nueva { from { background: #f5dfc3; } to { background: transparent; } }
+
+footer { text-align: center; padding: 24px 16px 32px; font-size: .85rem; color: var(--texto-suave); }
+code { background: var(--leche); padding: 2px 6px; border-radius: 6px; font-size: .85em; color: var(--espresso); }
+
+@media (max-width: 860px) {
+  .grid { grid-template-columns: 1fr; }
+  .lienzo, .lienzo.alto { height: 260px; }
+}

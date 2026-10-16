@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Café Aroma · Dashboard inteligente</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="vendor/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">☕</span>
+      <div>
+        <h1>Café Aroma</h1>
+        <p>Dashboard inteligente de ventas</p>
+      </div>
+    </div>
+    <div class="estado">
+      <span class="punto" id="punto"></span>
+      <span id="actualizado">Cargando…</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="kpis" id="kpis">
+      <article class="kpi"><span>Ventas totales</span><strong id="k-total">—</strong></article>
+      <article class="kpi"><span>N.º de ventas</span><strong id="k-num">—</strong></article>
+      <article class="kpi"><span>Ticket promedio</span><strong id="k-ticket">—</strong></article>
+      <article class="kpi"><span>Unidades vendidas</span><strong id="k-unid">—</strong></article>
+      <article class="kpi destacado"><span>Producto estrella</span><strong id="k-top">—</strong></article>
+    </section>
+
+    <section class="grid">
+      <article class="card ancha">
+        <header>
+          <h2>Ventas diarias y predicción (IA)</h2>
+          <span class="chip" id="r2">Regresión lineal</span>
+        </header>
+        <div class="lienzo alto"><canvas id="g-diaria"></canvas></div>
+      </article>
+
+      <article class="card">
+        <header><h2>Ingresos por categoría</h2></header>
+        <div class="lienzo"><canvas id="g-categoria"></canvas></div>
+      </article>
+
+      <article class="card">
+        <header><h2>Top 5 productos (unidades)</h2></header>
+        <div class="lienzo"><canvas id="g-top"></canvas></div>
+      </article>
+
+      <article class="card">
+        <header><h2>Promedio por día de la semana</h2></header>
+        <div class="lienzo"><canvas id="g-semana"></canvas></div>
+      </article>
+
+      <article class="card ia">
+        <header>
+          <h2>Asistente inteligente</h2>
+          <span class="chip ia-chip">IA</span>
+        </header>
+        <p class="sub">Recomendaciones generadas automáticamente a partir de los datos.</p>
+        <ul id="recomendaciones" class="recs"></ul>
+      </article>
+
+      <article class="card ancha">
+        <header><h2>Últimas ventas registradas</h2></header>
+        <div class="tabla-wrap">
+          <table>
+            <thead><tr><th>#</th><th>Fecha</th><th>Producto</th><th>Categoría</th><th class="num">Cant.</th><th class="num">Total</th></tr></thead>
+            <tbody id="tabla"></tbody>
+          </table>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    Registra ventas desde la terminal con <code>npm run registrar</code> o desde la consola del navegador con <code>registrarVenta("Capuccino", 2)</code>.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
